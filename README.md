@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=XJ_s2oy9_hc&t=4s
 And insert it into the model_data folder.
 
 ## Important notes and how to use
-- You *should* read the user's manual attached https://github.com/IdoGalil/People-counting-system/blob/master/Counting%20System%20User's%20manual.pdf
+- You *should* read the user's manual attached https://github.com/orfar1994/Counting_people_system/blob/master/Counting%20System%20User's%20manual.pdf
 - The system has some parameters that should be optimized to the specific entrance it's used on. Most importantly, DI and MCDF.
 - For more information about the components and ideas of the system and how they were developed, read the project's report.
 - The code is relatively modular, in such a way it would be easy to modify the detector and the tracker components as better updated ones are made.
