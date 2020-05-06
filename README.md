@@ -1,6 +1,6 @@
 # People counting system by Ido Galil & Or Farfara
-![](https://github.com/IdoGalil/People-counting-system/blob/master/Central%20Library%20entrance.gif)
-![](https://github.com/IdoGalil/People-counting-system/blob/master/Medical%20Library%20Entrance.gif)
+![](https://github.com/orfar1994/Counting_people_system/blob/master/Central%20Library%20entrance.gif)
+![](https://github.com/orfar1994/Counting_people_system/blob/master/Medical%20Library%20Entrance.gif)
 
 ## Short Overview
 The system counts the people entering and leaving an entrance, using a Deep Neural Network as a detector (YOLOv3) and a tracking algorithm to track and count (DCF-CSR \ CSRT). It was developed by myself and Or Farfara as a project in Machine Learning & Computer Vision at the Technion, and intended for use by the Technion's libraries (though it could be optimized for any entrance).
